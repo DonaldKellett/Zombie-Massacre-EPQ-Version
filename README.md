@@ -10,7 +10,7 @@ A version of my classic SVG-Javascript browser shooting game used for submission
 
 ## How to play the game
 
-To start playing the game, simply follow the instructions below:
+This game is [available online on Naitsabes](http://naitsabes.com/extended-project) (**NOTE**: link may be **temporary**).  Alternatively, if you want to play this game offline, simply follow the steps listed below:
 
 1. Download all the files from this repository
 2. Find the `index.svg` file which should be in the root directory.  **Drag and drop it into the browser of your choice to start playing (Safari NOT recommended).**  If you just double-click on the file, you will open up the source code instead.
